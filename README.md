@@ -11,9 +11,9 @@ from the paper *"Simultaneous activity and attenuation estimation in TOF-PET wit
 
 ## Usage
 - `noiseless-setting.ipynb` contains the code to reproduce 
-all the numerical results in the noisess setting, i.e., Figure
-1 and Figure 3-8.
+all the numerical results in the noisess setting (Figure
+1 and Figure 3-8).
 - `grid-search.ipynb` contains the code for grid searching the 
-best optimization parameters; it reproduces Figure 2.
+best optimization parameters (Figure 2).
 - `noisy-setting.ipynb` contains the code to reproduce the 
-results in the noisy-setting, i.e., Figure 9-11.
+results in the noisy-setting (Figure 9-11).
